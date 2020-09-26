@@ -21,9 +21,6 @@ python3 -m venv ./
 ```
 source bin/activate
 
-pip install notebook
-pip install jupyterlab
-
 pip install -r requirements.txt 
 ```
 
