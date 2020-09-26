@@ -1,13 +1,13 @@
-# TF Iris Classification Example
+# TF Datasets Tests
 
 
 ## First Install
 
 1. Download from git
 ```
-git clone ###URL ###DIR
+git clone https://github.com/zwerb/tf_datasets_tests.git tf_datasets_tests/
 
-cd ###DIR
+cd tf_datasets_tests/
 ```
 
 2. Download and virtual env if you haven't
