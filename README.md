@@ -10,7 +10,7 @@ git clone https://github.com/zwerb/tf_datasets_tests.git tf_datasets_tests/
 cd tf_datasets_tests/
 ```
 
-2. Download and Setup virtual env (if you haven't)
+2. Download and Setup virtualenv (if you haven't)
 ```
 pip install virtualenv
 
