@@ -1,0 +1,14 @@
+#this .gitignore
+
+bin/
+lib/
+include/
+etc/
+share/
+
+.DS_Store
+
+*.cfg
+
+*.log
+!example.log
